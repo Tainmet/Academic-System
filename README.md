@@ -1,4 +1,4 @@
-# Student Management System
+# Academic Management System
 
 ## project file structure
 
